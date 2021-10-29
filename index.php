@@ -8,6 +8,7 @@
 
 <form action="name.php" method="querystring">
     Name: <input type="text" name="name"><br>
+    Second Box: <input type="text" name="email"><br>
     <input type="submit" name="submit"></input>
 </form>
 
