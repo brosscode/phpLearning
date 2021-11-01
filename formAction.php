@@ -6,9 +6,11 @@
 </head>
 <body>
 
-<form action="name.php" method="get">
+<form action="NoShow.php" method="get">
     Name: <input type="text" name="name"><br>
-    <input type="submit" name="submit"></input>
+    Email: <input type="text" name="email"><br>
+    Zip: <input type="text" name="zip"><br>
+    <input type="submit"></input>
 </form>
 
 </body>
